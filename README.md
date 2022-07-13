@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @exoudueux
-- 👀 I’m interested in computer specs anf art
-- 🌱 I’m currently learning postgresql and python
-- 📫 How to reach me - write on my gmail!
+-  Hi, I’m @exoudueux, i love cats, games, PC... that's all.
+
+
 
 <!---
 exoudueux/exoudueux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
