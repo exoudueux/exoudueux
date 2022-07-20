@@ -1,4 +1,4 @@
--  Hi, I’m @exoudueux, i love cats, games, PC... that's all.
+-  Hi, I’m @exoudueux, i'm in love with cats, games, PC... learning java and Py... trying hard.
 
 
 
